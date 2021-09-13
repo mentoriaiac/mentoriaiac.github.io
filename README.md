@@ -10,4 +10,4 @@ Nesse tipo de documento, temos um objetivo muito claro e passos mais detalhados 
 
 Lista de how-to:
 
-[](how-to/01_como_criar_uma_issue_no_github)
+ - [Como criar uma issue no github](how-to/01_como_criar_uma_issue_no_github)
