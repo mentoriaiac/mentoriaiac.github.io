@@ -10,6 +10,13 @@ Esse documento demonstrará os passos necessários para criação de uma issue e
 
 A demana pode ser técnica, uma falha de segurança, organização ou até mesmo documentação. A demanda é o ponto de partida para uma issue. Não há sentido uma issue sem uma demanda.
 
+## Conhecimento necessário
+
+O suficiente para entender o problema apenas. Não demanda nenhum conhecimento prévio relacionado a IaC.
+
+## Acesso necessário
+
+Não se aplica, pois pode ser realizado por qualquer pessoa. Não há qualquer necessidade de mediação por colaboradores e/ou moderadores do repositório em questão.
 ## Como começar
 
 Usaremos o exemplo abaixo:
