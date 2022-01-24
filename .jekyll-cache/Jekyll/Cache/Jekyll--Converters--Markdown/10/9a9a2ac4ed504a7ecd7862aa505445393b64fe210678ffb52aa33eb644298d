@@ -1,0 +1,234 @@
+I"�<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+    <div class="row">
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/ansible.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Ansible</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://docs.ansible.com/" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/terraform.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Terraform</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://www.terraform.io/docs" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/docker.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Docker</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://docs.docker.com/" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/kubernetes.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Kubernetes</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://kubernetes.io/docs" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/nomad.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Nomad</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://www.nomadproject.io/docs" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/consul.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Consul</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://www.consul.io/docs" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/vault.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Vault</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://www.vaultproject.io/docs" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/git.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Git</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://git-scm.com/doc" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/linux.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Linux</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://www.kernel.org/doc/html/latest" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/packer.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Packer</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://www.packer.io/docs" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class="6u 12u$(medium) tecnologies">
+          <div class="box">
+            <div class="row">
+              <div class="3u 12u$(medium)">
+                <img src="/assets/images/tecnologias/postgres.png" />
+              </div>
+              <div class="9u 12u$(medium) tecnology-name">
+                <h2>Postgres</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u docs-link align-center">
+                <a href="https://www.postgresql.org/docs" class="button fit" target="_blank">
+                  Documentação
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+	</div>
+</section>
+
+</div>
+:ET

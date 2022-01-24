@@ -1,0 +1,69 @@
+I"�<!-- Banner -->
+<section id="banner" class="major">
+  <div class="inner">
+    <header class="major">
+      <h1>Mentoria IAC</h1>
+    </header>
+    <div class="content">
+      <p style="text-transform: uppercase;">
+        Somos um coletivo de pessoas, que tem como objetivo criar um espaço seguro, inclusivo e produtivo para aprendizado de infra-as-code (IaC). As pessoas aprendem IaC produzindo código para projetos de software livre (SL) com impacto social.
+      </p>
+      <ul class="actions">
+        <li><a href="#one" class="button next scrolly">Quero Conhecer!</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Main -->
+<div id="main">
+  
+
+<section id="one" class="tiles">
+  
+    
+  
+    
+  
+    
+      <article>
+        <span class="image">
+          <img src="/assets/images/encontros.jpg" alt="Os Encontros" />
+        </span>
+        <header class="major">
+          <h3><a href="/encontros" class="link">Os Encontros</a></h3>
+          <p>Entenda como funciona nossos Encontros =D</p>
+        </header>
+      </article>
+    
+  
+    
+  
+    
+      <article>
+        <span class="image">
+          <img src="/assets/images/como-funciona.jpg" alt="Quero Participar!" />
+        </span>
+        <header class="major">
+          <h3><a href="/quero-participar" class="link">Quero Participar!</a></h3>
+          <p>Bora particpar! Aqui estão algumas instruções :)</p>
+        </header>
+      </article>
+    
+  
+    
+      <article>
+        <span class="image">
+          <img src="/assets/images/ferramentas.jpg" alt="Tecnologias Utilizadas" />
+        </span>
+        <header class="major">
+          <h3><a href="/tecnologias" class="link">Tecnologias Utilizadas</a></h3>
+          <p></p>
+        </header>
+      </article>
+    
+  
+</section>
+ 
+</div>
+:ET
