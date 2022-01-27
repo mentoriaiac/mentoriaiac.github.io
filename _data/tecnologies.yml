@@ -1,0 +1,43 @@
+- name: Ansible
+  image: tecnologias/ansible.png
+  docs_link: https://docs.ansible.com/
+
+- name: Terraform
+  image: tecnologias/terraform.png
+  docs_link: https://www.terraform.io/docs
+
+- name: Docker
+  image: tecnologias/docker.png
+  docs_link: https://docs.docker.com/
+
+- name: Kubernetes
+  image: tecnologias/kubernetes.png
+  docs_link: https://kubernetes.io/docs
+
+- name: Nomad
+  image: tecnologias/nomad.png
+  docs_link: https://www.nomadproject.io/docs
+
+- name: Consul
+  image: tecnologias/consul.png
+  docs_link: https://www.consul.io/docs
+
+- name: Vault
+  image: tecnologias/vault.png
+  docs_link: https://www.vaultproject.io/docs
+
+- name: Git
+  image: tecnologias/git.png
+  docs_link: https://git-scm.com/doc
+
+- name: Linux
+  image: tecnologias/linux.png
+  docs_link: https://www.kernel.org/doc/html/latest
+
+- name: Packer
+  image: tecnologias/packer.png
+  docs_link: https://www.packer.io/docs
+
+- name: Postgres
+  image: tecnologias/postgres.png
+  docs_link: https://www.postgresql.org/docs

@@ -1,0 +1,22 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header" class="style2">
+	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+    {% assign ordered_pages = site.pages %}
+    {% for page in ordered_pages %}
+      {% if page.nav_menu %}
+        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+      {% endif %}
+		{% endfor %}
+	</ul>
+</nav>
