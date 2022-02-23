@@ -22,7 +22,8 @@ sass:
 include: ['_pages']
 
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - '*.gemspec'
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md
+  - script
