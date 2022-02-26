@@ -19,7 +19,7 @@ menu_position: 0
 		</header>
 		<p>
       Temos um encontro semanal que acontece aos domingos às 15h (horário de brasília) para alinhamento dos rumos dos projetos. Esse encontro acontece no <a href="https://discord.gg/Vsua55ZxMp">discord</a>.
-      Temos outros encontros que acontecem por demanda, a medida que alguém quer executar alguma atividade ou compartilhar algum conhecimento.
+      Temos outros encontros que acontecem por demanda, que são chamados de <<strong>>encontros de trabalho</<strong>>, que são os encontros que fazemos para colocar a mão na massa de verdade.
     </p>
 	</div>
 </section>
@@ -32,6 +32,17 @@ menu_position: 0
 		<p>
       Assim que entrar se apresente no canal "Apresente-se". Fique atento ao canal <strong>geral</strong> e ao canal temático relacionado com os assuntos que mais tem interesse. 
       A dica mais importante é "tenha iniciativa". Se quiser trabalhar com terraform (por exemplo) acesse o canal "tematico-terraform" e fale "Quero pegar alguma tarefa de terraform, mas não sei nada sobre isso, alguém pode me ajudar" e espere a mágica acontecer. Se demorar (normalmente não demora), pode marcar os moderadores.
+    </p>
+	</div>
+</section>
+
+<section id="dicas">
+	<div class="inner">
+		<header class="major">
+			<h2>Como acho os encontros de trabalho?</h2>
+		</header>
+		<p>
+      Ao entrar no discord veja no canal <strong>agenda</strong> ou clique no link <strong>Eventos</strong> que fica no topo esquerdo do seu Discord. Lá teremos todos os eventos agendados para mentoria.
     </p>
 	</div>
 </section>
