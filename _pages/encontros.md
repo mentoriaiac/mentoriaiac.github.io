@@ -19,7 +19,7 @@ menu_position: 0
 		</header>
 		<p>
       Temos um encontro semanal que acontece aos domingos às 15h (horário de brasília) para alinhamento dos rumos dos projetos. Esse encontro acontece no <a href="https://discord.gg/Vsua55ZxMp">discord</a>.
-      Temos outros encontros que acontecem por demanda, que são chamados de <<strong>>encontros de trabalho</<strong>>, que são os encontros que fazemos para colocar a mão na massa de verdade.
+      Temos outros encontros que acontecem por demanda, que são chamados de <strong>encontros de trabalho</strong>, que são os encontros que fazemos para colocar a mão na massa de verdade.
     </p>
 	</div>
 </section>
