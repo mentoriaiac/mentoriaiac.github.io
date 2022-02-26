@@ -6,7 +6,7 @@ layout: page
 <section id="banner" class="major">
   <div class="inner">
     <header class="major">
-      <h1>Mentoria IAC</h1>
+      <h1>Mentoria IaC</h1>
     </header>
     <div class="content">
       <p style="text-transform: uppercase;">
