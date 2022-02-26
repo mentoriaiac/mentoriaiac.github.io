@@ -17,7 +17,7 @@ menu_position: 1
 			<h2>Como Funciona?</h2>
 		</header>
 		<p>
-      Todo conhecimento é gerado pelos membros do coletivo, pois acreditamos que todos tem uma história pra contar. Quem sabe mais ensina quem sabe menos e todos mandam código e assim ajudam o projeto de SL com uma infra automatizada.
+      É uma mentoria para ajudar pessoas trabalhadoras a terem mais conhecimento e experiência com IaC. A mentoria tem como objetivo ser uma comunidade de aprendizado, onde você aprende fazendo IaC em um projeto real. Mesmo sem saber nada, pois você pode, e irá (nos acreditamos), aprender no processo.
     </p>
 	</div>
 </section>
@@ -28,7 +28,7 @@ menu_position: 1
 			<h3>Aprendizado em Grupo</h3>
 		</header>
 		<p>
-			Todo conhecimento é gerado pelos membros do coletivo, pois acreditamos que todos tem uma história pra contar. Quem sabe mais ensina quem sabe menos e todos mandam código e assim ajudam o projeto de SL com uma infra automatizada.
+			Não é uma pegadinha para lhe vender cursos depois. Acredite. É o poder da comunidade. De trabalhador para trabalhado. São pessoas que trabalham com TI ajudando outras que trabalham, ou querem trabalhar, com TI. A comunidade de software livre já provou a muito tempo o poder da comunidade. O poder que as pessoas que trabalham podem colaborar para um bem comum e assim melhorar a vida de toda sociedade. Podemos e faremos isso para aprender IaC.
 		</p>
 	</div>
 </section>
