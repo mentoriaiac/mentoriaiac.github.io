@@ -30,8 +30,8 @@ menu_position: 0
 			<h2>Dicas</h2>
 		</header>
 		<p>
-      Assim que entrar se apresente no canal "Apresente-se". Fique atento ao canal <strong>geral</strong> e ao canal temático relacionado com os assuntos que mais tem interesse. 
-      A dica mais importante é "tenha iniciativa". Se quiser trabalhar com terraform (por exemplo) acesse o canal "tematico-terraform" e fale "Quero pegar alguma tarefa de terraform, mas não sei nada sobre isso, alguém pode me ajudar" e espere a mágica acontecer. Se demorar (normalmente não demora), pode marcar os moderadores.
+      Assim que entrar se apresente no canal <strong>#apresente-se</strong>. Fique atento ao canal <strong>#geral</strong> e ao canal temático relacionado com os assuntos que mais tem interesse. 
+      A dica mais importante é "tenha iniciativa". Se quiser trabalhar com Terraform (por exemplo) acesse o canal <strong>#tematico-terraform</strong> e fale "Quero pegar alguma tarefa de Terraform, mas não sei nada sobre isso, alguém pode me ajudar" e espere a mágica acontecer. Se demorar (normalmente não demora), pode marcar os moderadores usando <strong>@moderadores</strong>.
     </p>
 	</div>
 </section>
@@ -42,7 +42,7 @@ menu_position: 0
 			<h2>Como acho os encontros de trabalho?</h2>
 		</header>
 		<p>
-      Ao entrar no discord veja no canal <strong>agenda</strong> ou clique no link <strong>Eventos</strong> que fica no topo esquerdo do seu Discord. Lá teremos todos os eventos agendados para mentoria.
+      Ao entrar no Discord veja no canal <strong>#agenda</strong> ou clique no link <strong>Eventos</strong> que fica no topo esquerdo do seu Discord. Lá teremos todos os eventos agendados para mentoria.
     </p>
 	</div>
 </section>
